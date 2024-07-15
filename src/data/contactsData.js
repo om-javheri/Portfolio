@@ -1,7 +1,6 @@
 export const contactsData = {
-    email: 'sreerag.rajan5@gmail.com',
-    phone: '+91 9663437669',
-    address: '412 Ground Floor, Indraprastha Colony, Sector 30-33, Faridabad, Haryana, 121003',
-
-    sheetAPI: ''
-}
+  email: "om.javheri@mitaoe.ac.in",
+  phone: "+91-9146536263",
+  address: "Austin Vallabh, Kasarwadi, Pune, Maharashtra, India - 411034",
+  sheetAPI: "",
+};

@@ -1,5 +1,6 @@
 import gcp from '../assets/svg/skills/gcp.svg'
 import html from '../assets/svg/skills/html.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
 import illustrator from '../assets/svg/skills/illustrator.svg'
 import docker from '../assets/svg/skills/docker.svg'
@@ -81,6 +82,9 @@ export const skillsImage = (skill) => {
     switch (skillID) {
         case 'gcp':
             return gcp;
+
+        case 'nodejs':
+            return nodejs;
         case 'html':
             return html;
         case 'photoshop':
